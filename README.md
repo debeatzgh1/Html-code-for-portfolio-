@@ -120,8 +120,8 @@
 <div id="aboutModal" class="custom-modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('aboutModal')">&times;</span>
-    <h2>About Us</h2>
-    <p><strong>debeatzgh1</strong> is a passionate developer, designer, and content creator dedicated to empowering creators and entrepreneurs through open-source tools, digital products, and educational content. Across multiple platforms (GitHub and Blogger), debeatzgh1 shares curated front-end components, productivity resources, and guides for web development, AI, and digital business growth.</p>
+    <h2>About </h2>
+    <p><strong>debeatzgh</strong> Debeatzgh is a digital entrepreneurship and tech-focused brand based in Ghana. It functions as a "Digital Growth Hub," offering a variety of software tools, music production, and business.</p>
   </div>
 </div>
 <!-- Contact Modal -->
@@ -133,7 +133,7 @@
     <ul>
       <li><a href="https://github.com/debeatzgh1" target="_blank">GitHub Profile</a></li>
       <li><a href="https://beatzde4.blogspot.com/p/contact.html" target="_blank">Beatzde4 Blog Contact</a></li>
-      <li>Email: <a href="mailto:your@email.com">Use blog contact form</a></li>
+      <li>Email: <a href="mailto: debeatz4@gmail.com">Use blog contact form</a></li>
     </ul>
   </div>
 </div>
@@ -191,7 +191,7 @@
     <details>
       <summary>Who is debeatzgh1?</summary>
       <div>
-        <p>debeatzgh1 is a developer, designer, and content creator focused on building modern web apps, sharing productivity tools, and providing digital solutions. Find my projects on <a href="https://github.com/debeatzgh1" target="_blank">GitHub</a> and insights on my <a href="https://beatzde4.blogspot.com/" target="_blank">blog</a>.</p>
+        <p>the author is a developer, designer, and content creator focused on building modern web apps, sharing productivity tools, and providing digital solutions. Find my projects on <a href="https://github.com/debeatzgh1" target="_blank">GitHub</a> and insights on my <a href="https://beatzde4.blogspot.com/" target="_blank">blog</a>.</p>
       </div>
     </details>
     <details>
