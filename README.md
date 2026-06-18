@@ -1,5 +1,3 @@
-
-
 <!-- Floating Menu Button with Modals: Place in HTML/JavaScript widget on Blogger for site-wide use -->
 <style>
   #floatingMenu {
@@ -14,8 +12,8 @@
     color: white;
     border: none;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     font-size: 28px;
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -120,8 +118,8 @@
 <div id="aboutModal" class="custom-modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('aboutModal')">&times;</span>
-    <h2>About </h2>
-    <p><strong>debeatzgh</strong> Debeatzgh is a digital entrepreneurship and tech-focused brand based in Ghana. It functions as a "Digital Growth Hub," offering a variety of software tools, music production, and business.</p>
+    <h2>About Us</h2>
+    <p><strong>debeatzgh</strong> is a freelance platform by a passionate developer, designer, and content creator dedicated to empowering creators and entrepreneurs through open-source tools, digital products, and educational content. Across multiple platforms (GitHub and Blogger), debeatzgh(1 shares curated front-end components, productivity resources, and guides for web development, AI, and digital business growth.</p>
   </div>
 </div>
 <!-- Contact Modal -->
@@ -132,8 +130,8 @@
     <p>You can connect via:</p>
     <ul>
       <li><a href="https://github.com/debeatzgh1" target="_blank">GitHub Profile</a></li>
-      <li><a href="https://beatzde4.blogspot.com/p/contact.html" target="_blank">Beatzde4 Blog Contact</a></li>
-      <li>Email: <a href="mailto: debeatz4@gmail.com">Use blog contact form</a></li>
+      <li><a href="https://debeatzgh1.github.io/Home-/" target="_blank">Beatzde4 Blog Contact</a></li>
+      <li>Email: <a href="debeatz4@gmail.com">Use blog contact form</a></li>
     </ul>
   </div>
 </div>
@@ -144,7 +142,7 @@
     <h2>Tools & Widgets</h2>
     <ul>
       <li><a href="https://github.com/debeatzgh1/firebase-front-end-components" target="_blank">Firebase Front-End Components</a>: Reusable UI components, HTML/CSS/JS, and Python resources.</li>
-      <li><a href="https://beatzde4.blogspot.com/p/tools.html" target="_blank">Beatzde4 Blog Tools</a>: Widgets, templates, and utilities for bloggers and creators.</li>
+      <li><a href="https://debeatzgh1.github.io/Home-/" target="_blank">Beatzde4 Blog Tools</a>: Widgets, templates, and utilities for bloggers and creators.</li>
     </ul>
   </div>
 </div>
@@ -179,7 +177,7 @@
     <ul>
       <li><a href="https://beatzde4.blogspot.com/p/firebase-curated-front-end-components.html" target="_blank">Firebase Curated Front-End Components</a></li>
       <li><a href="https://mybrandsonline.blogspot.com/" target="_blank">MyBrandsOnline Blog</a>: Branding advice and online business tips.</li>
-      <li><a href="http://digimartgh.blogspot.com/" target="_blank">DigimartGH</a>: Digital marketing, business tools, and guides.</li>
+      <li><a href="http://digimartgh.blogspot.com/" target="_blank">debeatzgh</a>: Digital marketing, business tools, and guides.</li>
     </ul>
   </div>
 </div>
@@ -191,7 +189,7 @@
     <details>
       <summary>Who is debeatzgh1?</summary>
       <div>
-        <p>the author is a developer, designer, and content creator focused on building modern web apps, sharing productivity tools, and providing digital solutions. Find my projects on <a href="https://github.com/debeatzgh1" target="_blank">GitHub</a> and insights on my <a href="https://beatzde4.blogspot.com/" target="_blank">blog</a>.</p>
+        <p>debeatzgh is a freelance developer, designer, and content creator focused on building modern web apps, sharing productivity tools, and providing digital solutions. Find my projects on <a href="https://github.com/debeatzgh1" target="_blank">GitHub</a> and insights on my <a href="https://beatzde4.blogspot.com/" target="_blank">blog</a>.</p>
       </div>
     </details>
     <details>
@@ -239,7 +237,7 @@
     <details>
       <summary>Where can I follow your updates?</summary>
       <div>
-        <p>Follow me on <a href="https://github.com/debeatzgh1" target="_blank">GitHub</a> for code/project updates and on <a href="https://beatzde4.blogspot.com/" target="_blank">Blogger</a> for articles and announcements.</p>
+        <p>Follow me on <a href="https://github.com/debeatzgh1" target="_blank">GitHub</a> for code/project updates and on <a href="https://debeatzgh1.github.io/debeatzgh/" target="_blank">Blogger</a> for articles and announcements.</p>
       </div>
     </details>
   </div>
@@ -299,4 +297,6 @@
   });
 </script>
 
--
+<!-- Elfsight Announcement Bar | Ads -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-da4c4e26-f1fe-4865-98e5-07ab2384d659" data-elfsight-app-lazy></div>
